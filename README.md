@@ -2,7 +2,9 @@
 Theoretical Machine Learning Course @ ETH Zurich
 
 ### Quick Reference to documents
- Lectures
+Lectures
+MW: High Dimensional Statistics
+SS: Understanding Machine Learning
 
 | Lecture title | Link to the file | Date| Reference |
 | ------------- | ------------- | ------------- | ------------- |
