@@ -16,7 +16,7 @@ SS: Understanding Machine Learning
 
 Assignments
 
-| Assignement Link  | Answer Link | Offical Answer Link |
+| Assignment Link  | Answer Link | Offical Answer Link |
 | ------------- | ------------- | ------------- |
 | [Assignment 1](/Assignments/hw1-tex.pdf)  | [Sample Answer 1](/Assignments/myanswer1-tex.pdf)   | Answer 1  |
 | Assignment 2  | Sample Answer 2  | Answer 2  |
@@ -26,3 +26,9 @@ Assignments
 9/10/2023: Add assignment 1 and personal answers for assignment 1; Add Lecture 1 - 4 PDF; Add reference book " High-Dimensional Statistics" by Martion J. Wainwright
 
 11/10/2023: Fix typos and mistakes in assignment 1. Add lecture 5 and interactive session materials.
+
+### Suggested Papers Up-to-date
+| Paper Title  | Paper Link | Conf / Journal |
+| ------------- | ------------- | ------------- |
+| Treatment Effect Risk: Bounds and Inference | https://arxiv.org/pdf/2201.05893.pdf | Management Science |
+| 
