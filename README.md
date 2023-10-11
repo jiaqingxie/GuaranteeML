@@ -24,3 +24,5 @@ Assignments
 ### Important Dates for repo
 
 9/10/2023: Add assignment 1 and personal answers for assignment 1; Add Lecture 1 - 4 PDF; Add reference book " High-Dimensional Statistics" by Martion J. Wainwright
+
+11/10/2023: Fix typos and mistakes in assignment 1. Add lecture 5 and interactive session materials.
