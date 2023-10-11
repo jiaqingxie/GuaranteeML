@@ -12,7 +12,7 @@ SS: Understanding Machine Learning
 | Uniform tail bound and McDiarmid  | [pdf](/Course%20Materials/lec2-handout.pdf)  | 29/9/2023  | MW Chapter 2,3,4  |
 | Azuma-Hoeffding and the uniform law  | [pdf](/Course%20Materials/lec3-handout.pdf)  | 3/10/2023  | MW Chapter 2,4	  |
 |  Uniform law and Rademacher complexity  | [pdf](/Course%20Materials/lec4-handout.pdf)  | 6/10/2023  | SS Chapter 7, 26 |
-
+| VC bound and margin bounds  | [pdf](/Course%20Materials/lec5-handout.pdf)  | 10/10/2023  | SS Chapter 7, 26 |
 
 Assignments
 
