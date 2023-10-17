@@ -64,4 +64,4 @@ Observational Data | [pdf](https://arxiv.org/pdf/2109.10522.pdf) | / |
 
 11/10/2023： Add suggested paper list this semester
 
-17/10/2023: Add Lecture 6 Slides
+17/10/2023: Add Lecture 6 Slides. Reseach proposal of the project: to be added
