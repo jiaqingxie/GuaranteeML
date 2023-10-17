@@ -13,6 +13,7 @@ SS: Understanding Machine Learning
 | Azuma-Hoeffding and the uniform law  | [pdf](/Course%20Materials/lec3-handout.pdf)  | 3/10/2023  | MW Chapter 2,4	  |
 |  Uniform law and Rademacher complexity  | [pdf](/Course%20Materials/lec4-handout.pdf)  | 6/10/2023  | SS Chapter 7, 26 |
 | VC bound and margin bounds  | [pdf](/Course%20Materials/lec5-handout.pdf)  | 10/10/2023  | SS Chapter 7, 26 |
+| Covering and metric entropy | [pdf](/Course%20Materials/lec6-handout.pdf) | 17/10/2023 | MW Chapter 5 |
 
 Assignments
 
@@ -62,3 +63,5 @@ Observational Data | [pdf](https://arxiv.org/pdf/2109.10522.pdf) | / |
 11/10/2023: Fix typos and mistakes in assignment 1. Add lecture 5 and interactive session materials.
 
 11/10/2023： Add suggested paper list this semester
+
+17/10/2023: Add Lecture 6 Slides
