@@ -63,7 +63,7 @@ Observational Data | [pdf](https://arxiv.org/pdf/2109.10522.pdf) | / |
 
 11/10/2023: Fix typos and mistakes in assignment 1. Add lecture 5 and interactive session materials.
 
-11/10/2023： Add suggested paper list this semester
+11/10/2023：Add suggested paper list this semester
 
 17/10/2023: Add Lecture 6 Slides. Reseach proposal of the project: to be added
 
