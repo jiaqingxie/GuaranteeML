@@ -14,7 +14,7 @@ SS: Understanding Machine Learning
 |  Uniform law and Rademacher complexity  | [pdf](/Course%20Materials/lec4-handout.pdf)  | 6/10/2023  | SS Chapter 7, 26 |
 | VC bound and margin bounds  | [pdf](/Course%20Materials/lec5-handout.pdf)  | 10/10/2023  | SS Chapter 7, 26 |
 | Covering and metric entropy | [pdf](/Course%20Materials/lec6-handout.pdf) | 17/10/2023 | MW Chapter 5 |
-
+| Chaining, non-parametric regression, localized complexities | [pdf](/Course%20Materials/lec7-handout.pdf) | 21/10/2023 | MW Chapter 5, 13 |
 Assignments
 
 | Assignment Link  | Answer Link | Offical Answer Link |
@@ -65,3 +65,6 @@ Observational Data | [pdf](https://arxiv.org/pdf/2109.10522.pdf) | / |
 11/10/2023： Add suggested paper list this semester
 
 17/10/2023: Add Lecture 6 Slides. Reseach proposal of the project: to be added
+
+21/10/2023: Add lecture 7 slide. Research proposal of the project: to be added. Due on 24/10.
+Especially update the lecture 5 slides since the proof is added.
