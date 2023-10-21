@@ -15,6 +15,7 @@ SS: Understanding Machine Learning
 | VC bound and margin bounds  | [pdf](/Course%20Materials/lec5-handout.pdf)  | 10/10/2023  | SS Chapter 7, 26 |
 | Covering and metric entropy | [pdf](/Course%20Materials/lec6-handout.pdf) | 17/10/2023 | MW Chapter 5 |
 | Chaining, non-parametric regression, localized complexities | [pdf](/Course%20Materials/lec7-handout.pdf) | 21/10/2023 | MW Chapter 5, 13 |
+
 Assignments
 
 | Assignment Link  | Answer Link | Offical Answer Link |
