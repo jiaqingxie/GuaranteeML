@@ -23,6 +23,11 @@ Assignments
 | [Assignment 1](/Assignments/hw1-tex.pdf)  | [Sample Answer 1](/Assignments/myanswer1-tex.pdf)   | Answer 1  |
 | Assignment 2  | Sample Answer 2  | Answer 2  |
 
+Project: An Equivalence Between Private Classification and Online Prediction
+| | | |
+| ------------- | ------------- | ------------- |
+| [Proposal](/Presentation/ETH_GML23_Project_proposal.pdf) | Final Paper  | Presentation|
+
 
 ### Suggested Papers Up-to-date
 | Paper Title  | Paper Link | Conf / Journal |
@@ -69,3 +74,5 @@ Observational Data | [pdf](https://arxiv.org/pdf/2109.10522.pdf) | / |
 
 21/10/2023: Add lecture 7 slide. Research proposal of the project: to be added. Due on 24/10.
 Especially update the lecture 5 slides since the proof is added.
+
+23/10/2023: Add Project Proposal:  An Equivalence Between Private Classification and Online Prediction
