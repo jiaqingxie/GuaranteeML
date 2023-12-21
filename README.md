@@ -1,10 +1,15 @@
 # GuaranteeML
 Theoretical Machine Learning Course @ ETH Zurich
 
+[Cheatsheet](/CheatSheet-Oral/Guarantees_for_Machine_Learning__Fact_Sheet.pdf) 
+
 ### Quick Reference to documents
 Lectures
-MW: High Dimensional Statistics
+MW: High Dimensional Statistics 
+
 SS: Understanding Machine Learning
+
+SC: Steinwart and Christmann: Support Vector Machines
 
 | Lecture title | Link to the file | Date| Reference |
 | ------------- | ------------- | ------------- | ------------- |
@@ -14,19 +19,30 @@ SS: Understanding Machine Learning
 |  Uniform law and Rademacher complexity  | [pdf](/Course%20Materials/lec4-handout.pdf)  | 6/10/2023  | SS Chapter 7, 26 |
 | VC bound and margin bounds  | [pdf](/Course%20Materials/lec5-handout.pdf)  | 10/10/2023  | SS Chapter 7, 26 |
 | Covering and metric entropy | [pdf](/Course%20Materials/lec6-handout.pdf) | 17/10/2023 | MW Chapter 5 |
-| Chaining, non-parametric regression, localized complexities | [pdf](/Course%20Materials/lec7-handout.pdf) | 21/10/2023 | MW Chapter 5, 13 |
+| Dudley’s integral and chaining | [pdf](/Course%20Materials/lec7-handout.pdf) | 20/10/2023 | MW Chapter 5, 13 |
+| Non-parametric regression and kernels  | [pdf](/Course%20Materials/lec8-handout.pdf)  | 24/10/2023  | SC Chapter4, MW Chapter 12, MW Chapter 13 |
+| Kernel ridge regression  | [pdf](/Course%20Materials/lec9-handout.pdf)  | 27/10/2023  | / |
+| Random design  | [pdf](/Course%20Materials/lec10-handout.pdf)  | 31/10/2023  | / |
+| Minimax lower bounds | [pdf](/Course%20Materials/lec11-handout.pdf)  | 10/11/2023  | / |
+| Interactive session: Lower bounds for semi-supervised learning | [Exercise](/Course%20Materials/sol3_gml23-tex.pdf)  | 14/11/2023  | / |
+| 
+Implicit bias of first-order optimization | [pdf](/Course%20Materials/lec13-handout.pdf)  | 14/11/2023  | / |
+
+	
+
+
 
 Assignments
 
 | Assignment Link  | Answer Link | Offical Answer Link |
 | ------------- | ------------- | ------------- |
-| [Assignment 1](/Assignments/hw1-tex.pdf)  | [Sample Answer 1](/Assignments/myanswer1-tex.pdf)   | Answer 1  |
-| Assignment 2  | Sample Answer 2  | Answer 2  |
+| [Assignment 1](/Assignments/hw1-tex.pdf)  | [My Answer 1](/Assignments/myanswer1-tex.pdf)   | [Official Answer 1](/Assignments/sol1-tex.pdf) |
+| [Assignment 2](/Assignments/hw2-tex.pdf)  | [My Answer 2](/Assignments/myanswer2-tex.pdf)   | [Official Answer 2](/Assignments/sol2-tex.pdf) |
 
 Project: An Equivalence Between Private Classification and Online Prediction
 | | | |
 | ------------- | ------------- | ------------- |
-| [Proposal](/Presentation/ETH_GML23_Project_proposal.pdf) | Final Paper  | Presentation|
+| [Proposal](/Presentation/ETH_GML23_Project_proposal.pdf) | Final Paper  | [Presentation](/Presentation/GML_Presentation.pdf)|
 
 
 ### Suggested Papers Up-to-date
@@ -62,6 +78,8 @@ Observational Data | [pdf](https://arxiv.org/pdf/2109.10522.pdf) | / |
 | The difference between structural counterfactuals and potential outcomes | [pdf](https://arxiv.org/pdf/2309.05997.pdf)| / |
 
 
+
+
 ### Important Dates for repo
 
 9/10/2023: Add assignment 1 and personal answers for assignment 1; Add Lecture 1 - 4 PDF; Add reference book " High-Dimensional Statistics" by Martion J. Wainwright
@@ -76,3 +94,5 @@ Observational Data | [pdf](https://arxiv.org/pdf/2109.10522.pdf) | / |
 Especially update the lecture 5 slides since the proof is added.
 
 23/10/2023: Add Project Proposal:  An Equivalence Between Private Classification and Online Prediction
+
+21/12/2023: Add Lecture notes, Exercise sheets (finish). Add presentation slides. Final Paper: to be released. Add cheatsheets for oral (referred by Tao Sun's notes)
